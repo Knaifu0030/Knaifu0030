@@ -32,6 +32,10 @@ const knaifu = {
 </tr>
 </table>
 
+## What I’m building toward
+
+Software that feels considered on the surface and makes sense underneath. I’m interested in the space between **design, automation and useful AI**—especially tools that make a repetitive task disappear.
+
 ## Tech stack
 
 **Frontend & UI**
@@ -54,6 +58,33 @@ const knaifu = {
 | [**Webcmd**](https://github.com/Knaifu0030/webcmd) | Browser tooling for reusable web workflows. |
 | [**Fruitfly Simulation**](https://github.com/Knaifu0030/fruitfly-simulation) | Connectome data, visualization and virtual-world experiments—not a brain emulation. |
 | [**Cmdee**](https://github.com/Knaifu0030/cmdee) | A conversational terminal with a little personality. |
+
+## GitHub activity
+
+<img src="assets/activity.svg" alt="Dated GitHub contribution calendar and public-repository language breakdown, refreshed weekly." width="100%" />
+
+## Current focus
+
+```ts
+const currently = {
+  craft: "interfaces with character",
+  tools: "browser workflows & developer automation",
+  curiosity: "AI systems, simulations & game ideas",
+  approach: "build → test → refine"
+};
+```
+
+## Beyond code
+
+| One Piece | The Climber | Chainsaw Man |
+| :--- | :--- | :--- |
+| The pull of the next horizon. | One more move up the wall. | A little noise in the system. |
+
+Manga, games, and the occasional side project that refuses to stay small.
+
+## Let’s connect
+
+Have something interesting to build? Find me at [**Asyra**](https://asyra.in), or explore my [public repositories](https://github.com/Knaifu0030?tab=repositories).
 
 ---
 
