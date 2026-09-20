@@ -27,7 +27,6 @@ top=langs.most_common(5);total=sum(langs.values());x=28
 for name,n in top:
  width=880*n/total;parts.append(f'<rect x="{x:.2f}" y="242" width="{width:.2f}" height="8" fill="{colors[name]}"/>');x+=width
 for i,(name,n) in enumerate(top):text(28+i*175,282,f'{name} {100*n/total:.1f}%',13)
-text(28,318,'Language share uses repository bytes, not proficiency. Activity follows GitHub visibility settings.',12)
-text(28,340,'Automatically refreshed weekly from GitHub. No invented streaks or rankings.',12)
+text(28,328,'Public repository bytes · weekly snapshot',12)
 parts.append('</svg>');(ROOT/'assets/activity.svg').write_text(''.join(parts))
 print({'contributions':cal['totalContributions'],'public_nonfork_repos':len(repos),'languages':top,'snapshot':date})
